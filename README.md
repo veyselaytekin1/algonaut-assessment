@@ -8,3 +8,6 @@ The objective was to develop a Chatbot for accessing information related to the 
 
 With 'OpenAI Embeddings', we can access our files and get answers to our questions. 
 For this purpose, we downloaded 70 summary files from the Arxiv website and received answers to our questions from these downloaded files.
+
+![Langchain-ChromaDB](https://github.com/veyselaytekin1/algonaut-assessment/blob/main/Langchain-Chromadb.png)
+
